@@ -1,0 +1,18 @@
+{
+  "primaryStartDomain": "lightsoftye/yemenphonebook/refs/heads/master/config.json",
+  "backupStartDomain": "",
+  "primaryDomain": "https://www.lightsoftapps.xyz/YpGateway/GatewayV1.Dll/api/",
+  "backupDomain": "https://www.lightsoftapps.xyz/YpGateway/GatewayV1.Dll/api/",
+  "timeoutSeconds": "30",
+  "endpoints": {
+    "appConfig": "v5/app-config",
+    "version": "api/v4/version.json",
+    "lists": "api/v4/lists.json",
+    "homeContent": "api/v4/home-content.json"
+  },
+  "cache": {
+    "appConfigVersion": 1,
+    "homeContentVersion": 2,
+    "listDataVersion": 1
+  }
+}

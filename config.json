@@ -1,8 +1,8 @@
 {
   "primaryStartDomain": "https://raw.githubusercontent.com/",
   "backupStartDomain": "https://raw.githubusercontent.com/",
-  "primaryStartEndpoint": "lightsoftye/yemenphonebook/refs/heads/master/config.json",
-  "backupStartEndpoint": "lightsoftye/yemenphonebook/refs/heads/master/config.json",
+  "primaryStartEndpoint": "lightsoftye/yemenphonebook/refs/heads/main/config.json",
+  "backupStartEndpoint": "lightsoftye/yemenphonebook/refs/heads/main/config.json",
   "startApiVersion": "v5",
   "primaryDomain": "https://www.lightsoftapps.xyz/YpGateway/GatewayV1.Dll/api/",
   "primaryApiVersion": "v5",

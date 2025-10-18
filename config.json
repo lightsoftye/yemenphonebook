@@ -1,17 +1,27 @@
 {
-  "primaryStartDomain": "lightsoftye/yemenphonebook/refs/heads/master/config.json",
-  "backupStartDomain": "",
+  "primaryStartDomain": "https://raw.githubusercontent.com/",
+  "backupStartDomain": "https://raw.githubusercontent.com/",
+  "primaryStartEndpoint": "lightsoftye/yemenphonebook/refs/heads/master/config.json",
+  "backupStartEndpoint": "lightsoftye/yemenphonebook/refs/heads/master/config.json",
+  "startApiVersion": "v5",
   "primaryDomain": "https://www.lightsoftapps.xyz/YpGateway/GatewayV1.Dll/api/",
+  "primaryApiVersion": "v5",
   "backupDomain": "https://www.lightsoftapps.xyz/YpGateway/GatewayV1.Dll/api/",
+  "backupApiVersion": "v5",
   "timeoutSeconds": "30",
   "endpoints": {
-    "appConfig": "v5/app-config",
-    "version": "api/v4/version.json",
-    "lists": "api/v4/lists.json",
-    "homeContent": "api/v4/home-content.json"
+    "appConfig": "app-config",
+    "appInfo": "app-info",
+    "versions": "versions",
+    "appVersion": "app-version",
+    "appLists": "lists",
+    "appHomeContent": "home-content"
   },
   "cache": {
-    "appConfigVersion": 1,
+    "appVersion": 1,
+    "appCacheVersion": 10,
+    "appConfigVersion": 11,
+    "appInfoVersion": 1,
     "homeContentVersion": 2,
     "listDataVersion": 1
   }

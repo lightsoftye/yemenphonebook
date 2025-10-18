@@ -4,9 +4,9 @@
   "primaryStartEndpoint": "lightsoftye/yemenphonebook/refs/heads/main/config.json",
   "backupStartEndpoint": "lightsoftye/yemenphonebook/refs/heads/main/config.json",
   "startApiVersion": "v5",
-  "primaryDomain": "https://www.lightsoftapps.xyz/YpGateway/GatewayV1.Dll/api/",
+  "primaryDomain": "https://www.lightsoftapps2.xyz/YpGateway/GatewayV1.Dll/api/",
   "primaryApiVersion": "v5",
-  "backupDomain": "https://www.lightsoftapps.xyz/YpGateway/GatewayV1.Dll/api/",
+  "backupDomain": "https://www.lightsoftapps2.xyz/YpGateway/GatewayV1.Dll/api/",
   "backupApiVersion": "v5",
   "timeoutSeconds": "30",
   "endpoints": {

@@ -4,9 +4,9 @@
   "primaryStartEndpoint": "lightsoftye/yemenphonebook/refs/heads/main/config.json",
   "backupStartEndpoint": "lightsoftye/yemenphonebook/refs/heads/main/config.json",
   "startApiVersion": "v5",
-  "primaryDomain": "https://www.lightsoftapps2.xyz/",
+  "primaryDomain": "https://www.lightsoftapps.xyz/",
   "primaryApiVersion": "v5",
-  "backupDomain": "https://www.lightsoftapps2.xyz/",
+  "backupDomain": "https://www.lightsoftapps.xyz/",
   "backupApiVersion": "v5",
   "timeoutSeconds": "30",
   "endpoints": {

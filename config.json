@@ -18,9 +18,9 @@
     "appHomeContent": "home-content"
   },
   "cache": {
-    "appVersion": 2,
-    "appCacheVersion": 10,
-    "appConfigVersion": 12,
+    "appVersion": 50,
+    "appCacheVersion": 100,
+    "appConfigVersion": 120,
     "appInfoVersion": 1,
     "homeContentVersion": 2,
     "listDataVersion": 1

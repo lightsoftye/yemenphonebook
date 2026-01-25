@@ -4,9 +4,9 @@
   "primaryStartEndpoint": "lightsoftye/yemenphonebook/refs/heads/main/config.json",
   "backupStartEndpoint": "lightsoftye/yemenphonebook/refs/heads/main/config.json",
   "startApiVersion": "v6",
-  "primaryDomain": "https://tehetherhdvs-hh.space/",
+  "primaryDomain": "https://api.tehetherhdvs-hh.space/",
   "primaryApiVersion": "v6",
-  "backupDomain": "https://tehetherhdvs-hh.online/",
+  "backupDomain": "https://api.tehetherhdvs-hh.space/",
   "backupApiVersion": "v6",
   "timeoutSeconds": "30",
   "endpoints": {
